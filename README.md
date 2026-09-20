@@ -1,0 +1,2 @@
+# videogame_service_analysis
+Исследование
